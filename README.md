@@ -10,3 +10,6 @@ go to this link: https://www.youtube.com/verify
 
 and also add http://localhost:8080/
 to Authorized redirect URIs in OAuth 2.0 Client IDs
+
+### Link to colab
+(!link)https://colab.research.google.com/drive/12wW00dtGi2uXqKl61bwlRIovyGou7Dbg?usp=sharing
