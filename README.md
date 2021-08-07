@@ -7,6 +7,8 @@ Upload videos on youtube using python
 
 pip install pickle google-api-python-client
 
+### Procedure 
+
 U need a client_secrets.json file with oauth credentials
 
 
