@@ -9,13 +9,13 @@ pip install pickle google-api-python-client
 
 ### Procedure 
 
-U need a client_secrets.json file with oauth credentials
+1) U need a client_secrets.json file with valid oauth credentials
 
 
-have to verify ur account before executing code
+2) have to verify ur account before executing code
 go to this link: https://www.youtube.com/verify
 
-and also add http://localhost:8080/
+3) and also add http://localhost:8080/
 to Authorized redirect URIs in OAuth 2.0 Client IDs
 
 ### Link to colab
